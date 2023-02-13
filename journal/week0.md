@@ -19,6 +19,8 @@ After Course Content: [Week 0 - Generate Credentials, AWS CLI, Budget and Billin
 
 ### Conceptual Architecture Diagram or your Napkins
 
+<img src="./assets/week0/Cruddur - Conceptual Diagram.png">
+
 ## Homework Stretch Assignments
 
 ### Create an admin user with MFA using IAM roles
